@@ -1,10 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
-categories:
- - 
-tags:
- - 
+aliases: []
+categories: []
+tags: []
+description: 
 featured_image:
+draft: false
+author: 1uvu
 ---
